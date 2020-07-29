@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 ![mystica](https://user-images.githubusercontent.com/45729256/88808061-083f7280-d1d0-11ea-91c0-d43c23097b81.gif)
 
+
+[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
+
