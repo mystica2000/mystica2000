@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mystica2000/mystica2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
