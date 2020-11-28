@@ -12,7 +12,7 @@
 - ⚡ Fun fact: You're Awesome
 
 
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 
 [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
