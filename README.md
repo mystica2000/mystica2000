@@ -2,9 +2,9 @@
 <!--
 **mystica2000/mystica2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on improving my skillset
+- 🔭 I’m currently working on improving my skillset on web and android applications
 - 💻 Open to work
-- 🌱 I’m currently learning JavaScript,Python
+- 🌱 I’m currently learning JavaScript,Python,Kotlin
 - 🤔 I’m looking for help with NodeJS,ReactJS
 - 💬 Ask me about Java
 - 📫 How to reach me: mysticainf@gmail.com
