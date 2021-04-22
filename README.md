@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning JavaScript,Python
 - 🤔 I’m looking for help with NodeJS,ReactJS
 - 💬 Ask me about Java and Python
-- 📫 How to reach me: mysticainf@gmail.com
+- 📫 How to reach me: [twitter](https://twitter.com/CuriouZmystee)
 - 😄 Pronouns: she
-- ⚡ Fun fact: You're Awesome
+- ⚡ Fun fact: You're Awesome!
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
