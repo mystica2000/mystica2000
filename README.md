@@ -1,5 +1,5 @@
 Hi there👋, 
-$~~~~~~~~~~$ 
+
 - 🗨️ I'm Mystica/Mysti
 - 💻 Developer, Blogger📘
 - 🔭 I’m currently working on improving my skills on mobile development!
