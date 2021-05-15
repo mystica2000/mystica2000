@@ -1,18 +1,11 @@
-
-<!--
-**mystica2000/mystica2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 🔭 I’m currently working on improving my skillset on web, android applications and some machine learning!
-- 💻 Open to work
-- 🌱 I’m currently learning JavaScript,Python
-- 🤔 I’m looking for help with NodeJS,ReactJS
-- 💬 Ask me about Java and Python
+Hi there👋, 
+$~~~~~~~~~~$ 
+- 🗨️ I'm Mystica/Mysti
+- 💻 Developer, Blogger📘
+- 🔭 I’m currently working on improving my skills on mobile development!
+- 💻 Open to work! 
+- 🌱 I’m currently learning Kotlin,Go
+- 💬 Ask me about Java,Kotlin,Python
 - 📫 How to reach me: [twitter](https://twitter.com/CuriouZmystee)
-- 😄 Pronouns: she
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: You're Awesome!
-
-
-
-
-[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
-
